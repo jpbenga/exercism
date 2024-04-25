@@ -1,0 +1,8 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer le répertoire node_modules
+node_modules/
+
+# Ignorer tous les fichiers temporaires créés par Visual Studio Code
+.vscode/
